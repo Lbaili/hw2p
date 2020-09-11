@@ -2,7 +2,7 @@
 # Collaborator: axa6066@psu.edu
 # Collaborator: tmd5681@psu.edu
 # Section: 1
-# Breakout: 14
+# Breakout: 14 
 
 def getGradePoint(g):
   if g == "A" : 
