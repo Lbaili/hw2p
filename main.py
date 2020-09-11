@@ -23,7 +23,7 @@ def getGradePoint(g):
   elif g == "D" : 
     a = 1.0
   else: 
-    a = 4.0
+    a = 0.0
   return a
 
 if __name__ =="__main__":
