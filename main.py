@@ -9,7 +9,7 @@ def getGradePoint(g):
     a = 4.0
   elif g == "A-" : 
     a = 3.67
-  elif g == "B-" : 
+  elif g == "B+" : 
     a = 3.33
   elif g == "B" : 
     a = 3.0
