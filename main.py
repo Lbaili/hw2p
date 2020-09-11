@@ -1,6 +1,6 @@
 # Author: Chang Li cxl5844@psu.edu
-# Collaborator:axa6066@psu.edu
-# Collaborator:tmd5681@psu.edu
+# Collaborator: axa6066@psu.edu
+# Collaborator: tmd5681@psu.edu
 # Section: 1
 # Breakout: 14
 
