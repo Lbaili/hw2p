@@ -3,12 +3,11 @@
 # Collaborator:tmd5681@psu.edu
 # Section: 1
 # Breakout: 14
-a1 = 4.0
-a2 = 4.0
-a3 = 4.0
 
 def getGradePoint(g):
-  if g == "A-" : 
+  if g == "A" : 
+    a = 4.0
+  elif g == "A-" : 
     a = 3.67
   elif g == "B-" : 
     a = 3.33
