@@ -40,4 +40,4 @@ if __name__ =="__main__":
   print(f"Grade point for course 3 is: {a3}")
   GPA = (a1 * c1 + a2 * c2 +a3 * c3)
   GPA /= (c1 + c2 + c3)
-  print(f"Your GPA is: {GPA} ")
+  print(f"Your GPA is: {GPA}")
